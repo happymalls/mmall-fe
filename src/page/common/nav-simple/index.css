@@ -1,0 +1,17 @@
+/*
+* @Author: Shuhuasong
+* @Date:   2020-08-05 17:15:14
+* @Last Modified by:   Shuhuasong
+* @Last Modified time: 2020-08-06 12:03:52
+*/
+.nav-simple{
+    height: 60px;
+    line-height: 60px;
+    border-bottom: 1px solid #ddd;
+    background: #fff;
+}
+.nav-simple .logo{
+    font-size: 26px;
+    font-weight: bold;
+    color: #c60023;
+}
