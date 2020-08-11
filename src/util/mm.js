@@ -2,7 +2,7 @@
 * @Author: Shuhuasong
 * @Date:   2020-07-07 17:33:12
 * @Last Modified by:   Shuhuasong
-* @Last Modified time: 2020-08-05 14:20:46
+* @Last Modified time: 2020-08-07 15:28:37
 */
 
 'use strict';
@@ -84,7 +84,7 @@ var _mm = {
 
    //Unify the login
    doLogin  : function(){
-    window.location.href = './login.html?redirect =' + encodeURIComponent(window.location.href);
+    window.location.href = './user-login.html?redirect =' + encodeURIComponent(window.location.href);
    },
    //go Home page
    goHome : function(){

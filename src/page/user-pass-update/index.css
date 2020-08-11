@@ -1,0 +1,26 @@
+/*
+* @Author: Shuhuasong
+* @Date:   2020-08-11 13:48:46
+* @Last Modified by:   Shuhuasong
+* @Last Modified time: 2020-08-11 14:32:44
+*/
+.form-line{
+    margin-bottom: 10px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+}
+
+.form-line .label{
+    margin-right: 5px;
+    width: 80px;
+    text-align: center;
+}
+.form-line .input{
+    margin-left: 80px;
+    margin-bottom: 20px;
+    height: 25px;
+    line-height: 25px;
+    width: 200px;
+    font-size: 14px;
+}

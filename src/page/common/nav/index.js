@@ -2,7 +2,7 @@
 * @Author: Shuhuasong
 * @Date:   2020-08-05 18:09:42
 * @Last Modified by:   Shuhuasong
-* @Last Modified time: 2020-08-05 23:34:28
+* @Last Modified time: 2020-08-08 15:03:47
 */
 'use strict';
 require('./index.css');
@@ -24,10 +24,10 @@ var nav = {
        });
        //register click event
        $('.js-register').click(function(){
-        window.location.href = './register.html';
+        window.location.href = './user-register.html';
        });
        //logout click event
-        $('.js-logout').click(function(){
+       $('.js-logout').click(function(){
          _user.logout(function(res){
             window.location.reload();
          }, function(errMsg){
@@ -38,7 +38,7 @@ var nav = {
     //load user information
     loadUserInfo : function(){
         _user.checkLogin(function(res){
-            $('.user.not-login').hide().sibling('.user.login').show()
+            $('.user.not-login').hide().siblings('.user.login').show()
             .find('.username').text(res.username);
 
          }, function(errMsg){

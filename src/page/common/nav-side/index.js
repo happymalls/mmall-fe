@@ -2,7 +2,7 @@
 * @Author: Shuhuasong
 * @Date:   2020-08-06 20:15:34
 * @Last Modified by:   Shuhuasong
-* @Last Modified time: 2020-08-06 22:30:38
+* @Last Modified time: 2020-08-11 13:53:21
 */
 'use strict';
 require('./index.css');
@@ -16,7 +16,7 @@ var navSide = {
       navList : [ 
          { name: 'user-center', desc: 'Personal Center',  href: './user-center.html'},
          { name: 'order-list', desc: 'My Order',  href: './order-list.html'},
-         { name: 'pass-update', desc: 'Update Password',  href: './pass-update.html'},
+         { name: 'user-pass-update', desc: 'Update Password',  href: './user-pass-update.html'},
          { name: 'about', desc: 'About MMall',   href: './about.html'}
       ]
     },

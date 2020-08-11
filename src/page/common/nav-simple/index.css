@@ -2,7 +2,7 @@
 * @Author: Shuhuasong
 * @Date:   2020-08-05 17:15:14
 * @Last Modified by:   Shuhuasong
-* @Last Modified time: 2020-08-06 12:03:52
+* @Last Modified time: 2020-08-10 17:02:49
 */
 .nav-simple{
     height: 60px;
@@ -14,4 +14,5 @@
     font-size: 26px;
     font-weight: bold;
     color: #c60023;
+    text-decoration: none;
 }
