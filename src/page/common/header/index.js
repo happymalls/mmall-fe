@@ -2,7 +2,7 @@
 * @Author: Shuhuasong
 * @Date:   2020-08-06 13:40:19
 * @Last Modified by:   Shuhuasong
-* @Last Modified time: 2020-08-06 14:57:48
+* @Last Modified time: 2020-08-13 23:55:43
 */
 'use strict';
 require('./index.css');
@@ -11,6 +11,7 @@ var _mm = require('util/mm.js');
 //common page header
 var header = {
     init : function(){
+      this.onLoad();
       this.bindEvent();
     },
     //

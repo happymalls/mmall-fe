@@ -3,7 +3,7 @@
 * @Author: Shuhuasong
 * @Date:   2020-06-25 02:08:16
 * @Last Modified by:   Shuhuasong
-* @Last Modified time: 2020-08-11 13:52:04
+* @Last Modified time: 2020-08-16 13:25:09
 */
 
 var webpack = require('webpack');
@@ -30,12 +30,14 @@ var config = {
   entry: {
     'common'             : ['./src/page/common/index.js'],
     'index'              : ['./src/page/index/index.js'],
+    'list'               : ['./src/page/list/index.js'],
+    'detail'             : ['./src/page/detail/index.js'],
     'user-login'         : ['./src/page/user-login/index.js'],
     'user-register'      : ['./src/page/user-register/index.js'],
     'user-pass-reset'    : ['./src/page/user-pass-reset/index.js'],
     'user-center'        : ['./src/page/user-center/index.js'],
     'user-center-update' : ['./src/page/user-center-update/index.js'],
-    'user-pass-update' : ['./src/page/user-pass-update/index.js'],
+    'user-pass-update'   : ['./src/page/user-pass-update/index.js'],
     'result'             : ['./src/page/result/index.js'],
   },
   output: {
@@ -87,9 +89,11 @@ var config = {
     new ExtractTextPlugin("css/[name].css"),
     // deal with html module
     new HtmlWebpackPlugin(getHtmlConfig('index', 'Home')),
+    new HtmlWebpackPlugin(getHtmlConfig('list', 'Product List')),
+    new HtmlWebpackPlugin(getHtmlConfig('detail', 'Product Detail')),
     new HtmlWebpackPlugin(getHtmlConfig('user-login','Login')),
     new HtmlWebpackPlugin(getHtmlConfig('user-register','Registration')),
-    new HtmlWebpackPlugin(getHtmlConfig('user-pass-reset','FindPassword')),
+    new HtmlWebpackPlugin(getHtmlConfig('user-pass-reset','Find Password')),
     new HtmlWebpackPlugin(getHtmlConfig('user-center','Personal Information Center')),
     new HtmlWebpackPlugin(getHtmlConfig('user-center-update','Update Personal Information')),
     new HtmlWebpackPlugin(getHtmlConfig('user-pass-update','Update Password')),
