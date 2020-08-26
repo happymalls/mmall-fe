@@ -27,7 +27,7 @@ Home\
      
   <img src = "https://g.recordit.co/eMtpDXgyOr.gif" width = 650> <br>
   
-  [![Watch Demo <- click here](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://recordit.co/eMtpDXgyOr)
+  [![Watch Demo <- click here](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUW4fB-obRH8QvbQQILxEiFMjK1Kf85Os5g&usqp=CAU)](https://recordit.co/eMtpDXgyOr)
   
   ![Alt Text](https://recordit.co/eMtpDXgyOr)
   
