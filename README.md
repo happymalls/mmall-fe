@@ -29,6 +29,6 @@ Home\
   
   [![Watch Demo <- click here](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://recordit.co/eMtpDXgyOr)
   
-  ![Alt Text](http://g.recordit.co/eMtpDXgyOr.gif)
+  ![Alt Text](https://recordit.co/eMtpDXgyOr)
     
      
