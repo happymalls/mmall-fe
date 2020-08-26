@@ -1,5 +1,5 @@
-# mmall-fe
-happymmall-Ecommerce
+
+# happymmall-Ecommerce
 
 * Created interactive customer-frontend interface with JQuery, JavaScript, HTML/CSS
 * A single page application for administers to manage users, products, orders with React
