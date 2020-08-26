@@ -24,13 +24,9 @@ Home\
      [backEnd_Count-API](https://github.com/happymalls/mmall-fe/blob/ranch/happymmall-API%20document/backEnd_Count-API.markdown)\
      [backEnd_Order-API](https://github.com/happymalls/mmall-fe/blob/ranch/happymmall-API%20document/backEnd_Order-API.markdown)
      
-     
-  <img src = "https://g.recordit.co/eMtpDXgyOr.gif" width = 650> <br>
   
   [![Watch Demo <- click here](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUW4fB-obRH8QvbQQILxEiFMjK1Kf85Os5g&usqp=CAU)](https://recordit.co/eMtpDXgyOr)
   
-  ![Alt Text](https://recordit.co/eMtpDXgyOr)
-  
-  ![](http://g.recordit.co/eMtpDXgyOr.gif)
+
     
      
