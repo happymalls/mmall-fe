@@ -3,7 +3,7 @@
 * @Author: Shuhuasong
 * @Date:   2020-06-25 02:08:16
 * @Last Modified by:   Shuhuasong
-* @Last Modified time: 2020-08-16 13:25:09
+* @Last Modified time: 2020-08-22 21:00:10
 */
 
 var webpack = require('webpack');
@@ -32,6 +32,7 @@ var config = {
     'index'              : ['./src/page/index/index.js'],
     'list'               : ['./src/page/list/index.js'],
     'detail'             : ['./src/page/detail/index.js'],
+    'cart'               : ['./src/page/cart/index.js'],
     'user-login'         : ['./src/page/user-login/index.js'],
     'user-register'      : ['./src/page/user-register/index.js'],
     'user-pass-reset'    : ['./src/page/user-pass-reset/index.js'],
@@ -91,6 +92,7 @@ var config = {
     new HtmlWebpackPlugin(getHtmlConfig('index', 'Home')),
     new HtmlWebpackPlugin(getHtmlConfig('list', 'Product List')),
     new HtmlWebpackPlugin(getHtmlConfig('detail', 'Product Detail')),
+    new HtmlWebpackPlugin(getHtmlConfig('cart', 'Cart')),
     new HtmlWebpackPlugin(getHtmlConfig('user-login','Login')),
     new HtmlWebpackPlugin(getHtmlConfig('user-register','Registration')),
     new HtmlWebpackPlugin(getHtmlConfig('user-pass-reset','Find Password')),
