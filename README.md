@@ -26,8 +26,8 @@ Home\
      
   
   [![Watch Demo <- click here](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUW4fB-obRH8QvbQQILxEiFMjK1Kf85Os5g&usqp=CAU)](https://recordit.co/eMtpDXgyOr)
-   [![All the module cover](https://static3.sycdn.imooc.com/img/5981a6a70001362410504931.png]
-   [All the module cover]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+   
+   [All the module cover]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 
   
   
 
