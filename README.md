@@ -28,6 +28,8 @@ Home\
   [![Watch Demo <- click here](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUW4fB-obRH8QvbQQILxEiFMjK1Kf85Os5g&usqp=CAU)](https://recordit.co/eMtpDXgyOr)
    
    [All the module cover]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "All the module cover"
+   
+   [logo]:  https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
   
   
 
