@@ -10,7 +10,7 @@
 * Deployed web application layer on an AWS EC2 instance with Database layer on RDS instance in private
 subnet
 
-## API Document--![Watch Demo <- click here](https://recordit.co/eMtpDXgyOr)
+## API Document--[!Watch Demo <- click here](https://recordit.co/eMtpDXgyOr)
 Home\
     * [frontEnd_Product-API](https://github.com/happymalls/mmall-fe/blob/ranch/happymmall-API%20document/frontEnd_Product-API.markdown)\
     * [frontEnd_Payment-API](https://github.com/happymalls/mmall-fe/blob/ranch/happymmall-API%20document/frontEnd_Payment-API.markdown)\
